@@ -1,0 +1,827 @@
+{
+    "women" : [
+      {
+        "id": 1,
+        "image": "https://images.asos-media.com/products/whistles-midi-dress-in-autumnal-print/203149069-1-multi?$n_320w$&wid=317&fit=constrain",
+        "name": "Whistles",
+        "title": "Whistles midi dress in autumnal print",
+        "color": "multi",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 24800,
+        "product_details": [
+          "Dresses by Whistles",
+          "A round of applause for the dress",
+          "Floral design",
+          "Button placket",
+          "Shirred, stretch waist",
+          "Regular fit"],
+        "product_code": "119904271",
+        "brand": "London-based label Whistles is a firm ASOS favourite. The brand’s collections pair clean silhouettes with premium fabrics, while relaxed fits keep things chill – think printed skirts and wrap dresses, tailored jumpsuits and girlfriend jeans. Its slogan tees and chunky earrings go great together, too.",
+        "size_and_fit": ["Model wears: UK 8/ EU 36/ US 4", "Model's height: 170 cm/5'7”"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Cotton: lightweight, soft, strong and breathable", "Main: 100% Cotton."]
+      },
+      {
+        "id": 2,
+        "image": "https://images.asos-media.com/products/adidas-originals-luxe-lounge-cropped-corset-t-shirt-in-dark-brown/202757617-1-black?$n_320w$&wid=317&fit=constrain",
+        "name": "adidas",
+        "title": "adidas Originals Luxe Lounge cropped corset t-shirt in dark brown",
+        "color": "dark brown",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 4800,
+        "product_details": [
+          "T-shirts by adidas Originals",
+  
+          "Act casual",
+          "Crew neck",
+          "Reverse seam details",
+          "Logo embroidery to front",
+          "Cropped length",
+          "Slim fit"],
+        "product_code": "118674879",
+        "brand": "With a history stretching back over 60 years, adidas Originals staples have become key players in wardrobes everywhere. Scroll the adidas Originals at ASOS edit to get your 3-Stripes fix, with everything from adidas Performance leggings and vests to adidas Originals tracksuits, joggers, T-shirts and sweatshirts for that classic streetwear style. Just here for the brand’s iconic trainers? Check out effortless, everyday kicks from the brand’s Superstar, Stan Smith, Gazelle and Continental 80 collections.",
+        "size_and_fit": ["Model wears: UK 8/ EU 36/ US 4", "Model's height: 170cm/5'7"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Main: 100% Cotton."]
+      },
+      {
+        "id": 3,
+        "image": "https://images.asos-media.com/products/stradivarius-boucle-trouser-in-purple-black-check-co-ord/203978562-1-purple?$n_320w$&wid=317&fit=constrain",
+        "name": "Stradivarius",
+        "title": "Stradivarius boucle trouser in purple & black check co-ord",
+        "color": "purple",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 4500,
+        "product_details": [
+          "Trousers & Leggings by Stradivarius",
+          "Style refresh: pending",
+          "Check design",
+          "Mid rise",
+          "Pocket details",
+          "Relaxed fit"],
+        "product_code": "123698490",
+        "brand": "Barcelona-born clothing brand Stradivarius moves to its own beat. With an eye for minimalism and trend-led detail, expect classic silhouettes and a neutral colour palette (with the odd print thrown in for good measure). The perfect stop for a wardrobe refresh, our Stradivarius at ASOS edit has everything from floaty day dresses and blouses to staple jeans and T-shirts. Looking for layers? Check out the brand’s jumpers, jackets and blazers.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Stretch, plain-woven fabric", "Main: 67% Polyester, 32% Viscose, 1% Elastane."]
+      },
+      {
+        "id": 4,
+        "image": "https://images.asos-media.com/products/asos-design-pleated-micro-mini-skirt-in-pinstripe/203247136-1-pinstripe?$n_320w$&wid=317&fit=constrain",
+        "name": "ASOS DESIGN",
+        "title": "ASOS DESIGN pleated micro mini skirt in pinstripe",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 5700,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 5,
+        "image": "https://images.asos-media.com/products/under-armour-play-up-30-shorts-in-pink-and-white/202953200-1-white?$n_320w$&wid=317&fit=constrain",
+        "name": "Under Armour",
+        "title": "Under Armour Play Up 3.0 shorts in pink and white",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 9200,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 6,
+        "image": "https://images.asos-media.com/products/fred-perry-v-neck-jumper-in-blue/202845800-1-silverblue?$n_320w$&wid=317&fit=constrain",
+        "name": "Fred Perry",
+        "title": "Fred Perry v-neck jumper in blue",
+        "color": "blue",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 9200,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 7,
+        "image": "https://images.asos-media.com/products/nike-yoga-strap-in-black/202431063-1-black?$n_320w$&wid=317&fit=constrain",
+        "name": "Nike",
+        "title": "Nike Yoga strap in black",
+        "color": "black",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 2600,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 8,
+        "image": "https://images.asos-media.com/products/pink-soda-double-cross-back-strap-sports-bra-in-olive/203018011-1-khaki?$n_320w$&wid=317&fit=constrain",
+        "name": "Pink Soda",
+        "title": "Pink Soda double cross back strap sports bra in olive",
+        "color": "olive",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 3800,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 9,
+        "image": "https://images.asos-media.com/products/designb-london-molten-metal-hoops-in-silver/203719657-1-silver?$n_320w$&wid=317&fit=constrain",
+        "name": "DesignB London",
+        "title": "DesignB London molten metal hoops in silver",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 1350,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 10,
+        "image": "https://images.asos-media.com/products/daisy-street-corset-crop-top-in-contrast-pink-and-lace/203556019-1-multi?$n_320w$&wid=317&fit=constrain",
+        "name": "Daisy Street",
+        "title": "Daisy Street corset crop top in contrast pink and lace",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 3800,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 11,
+        "image": "https://images.asos-media.com/products/skinnydip-sheer-black-tights-with-not-in-the-mood-wavy-slogan-print/203322748-1-black?$n_320w$&wid=317&fit=constrain",
+        "name": "Skinnydip",
+        "title": "Skinnydip sheer black tights with 'not in the mood' wavy slogan print",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 2100,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 12,
+        "image": "https://images.asos-media.com/products/other-stories-crew-neck-sweater-in-petrol/203819185-1-petrol?$n_320w$&wid=317&fit=constrain",
+        "name": "& Other Stories",
+        "title": "& Other Stories crew neck sweater in petrol",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 5900,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 13,
+        "image": "https://images.asos-media.com/products/monki-beret-in-forest-green/203777942-1-darkgreen?$n_320w$&wid=317&fit=constrain",
+        "name": "Monki",
+        "title": "Monki beret in forest green",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 1900,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 14,
+        "image": "https://images.asos-media.com/products/monki-satin-slip-midi-dress-with-split-in-green/203777301-1-green?$n_320w$&wid=317&fit=constrain",
+        "name": "Monki",
+        "title": "Monki satin slip midi dress with split in green",
+        "color": "green",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 5100,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 15,
+        "image": "https://images.asos-media.com/products/monki-satin-slip-midi-dress-with-split-in-green/203777301-1-green?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "Monki borg gilet with pocket detail in cream",
+        "color": "cream",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 5900,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 16,
+        "image": "https://images.asos-media.com/products/asos-design-chicago-graphic-double-layer-hoodie/203680487-1-washedcharcoal?$n_320w$&wid=317&fit=constrain",
+        "name": "ASOS DESIGN",
+        "title": "ASOS DESIGN chicago graphic double layer hoodie",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 6400,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      }
+    ],
+    "womenpromovideo" : 
+      {
+      "id": 1,
+      "video": "https://video.asos-media.com/Navigation/_content_topshop_desktop_mp4_564_720_2400k_25fps"
+      },
+    "womensmallcards" : [
+      {
+        "id": 1,
+        "image": "https://content.asos-media.com/-/media/homepages/ww/2022/sept/26/moments/ww_global_ultimate_tailoring_moment_870x1110.jpg",
+        "title": "TEAM TAILORED",
+        "text": "Executive realness"
+      },
+      {
+        "id": 2,
+        "image": "https://content.asos-media.com/-/media/homepages/ww/2022/sept/26/moments/ww_global_ultimate_tailoring_moment_870x1110.jpg",
+        "title": "TEAM TAILORED",
+        "text": "Executive realness"
+      },
+      {
+        "id": 3,
+        "image": "https://content.asos-media.com/-/media/homepages/ww/2022/sept/26/moments/ww_global_ultimate_tailoring_moment_870x1110.jpg",
+        "title": "TEAM TAILORED",
+        "text": "Executive realness"
+      },
+      {
+        "id": 4,
+        "image": "https://content.asos-media.com/-/media/homepages/ww/2022/sept/26/moments/ww_global_ultimate_tailoring_moment_870x1110.jpg",
+        "title": "TEAM TAILORED",
+        "text": "Executive realness"
+      }
+    ],
+    "womentrendingbrands" : [
+      {
+        "id": 1,
+        "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/monkl-hp-logos-256x256.jpg"
+      },
+      {
+        "id": 2,
+        "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/never-fully-dressed-hp-logos-256x256.png"
+      },
+      {
+        "id": 3,
+        "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/1x12x---test.png"
+      },
+      {
+        "id": 4,
+        "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/reclaimed-vintage-hp-logos-256x256.jpg"
+      },
+      {
+        "id": 5,
+        "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/collusion-hp-logos-256x256.jpg"
+      },
+      {
+        "id": 6,
+        "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/weekday-hp-logos-256x256.jpg"
+      }
+    ],
+    "womenmediumcards" : [
+      {
+        "id": 1,
+        "image": "https://content.asos-media.com/-/media/homepages/ww/2022/sept/26/moments/ww_global_ultimate_tailoring_moment_870x1110.jpg",
+        "title": "TEAM TAILORED",
+        "text": "Executive realness"
+      },
+      {
+        "id": 2,
+        "image": "https://content.asos-media.com/-/media/homepages/ww/2022/sept/26/moments/ww_global_ultimate_tailoring_moment_870x1110.jpg",
+        "title": "TEAM TAILORED",
+        "text": "Executive realness"
+      }
+    ],
+    
+    "men" : [
+      {
+        "id": 1,
+        "image": "https://images.asos-media.com/products/fila-borg-gilet-with-logo-in-navy/203502633-1-navy?$n_320w$&wid=317&fit=constrain",
+        "name": "Fila",
+        "title": "Fila borg gilet with logo in navy",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 10000,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 2,
+        "image": "https://images.asos-media.com/products/the-ragged-priest-spiral-half-zip-knitted-jumper-in-multi/203610867-1-blackbrown?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "The Ragged Priest spiral half zip knitted jumper in multi",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 5600,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 3,
+        "image": "https://images.asos-media.com/products/lost-souls-sterling-silver-crystal-triangle-earrings/203624752-1-silver?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "Lost Souls sterling silver crystal triangle earrings",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 3400,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 4,
+        "image": "https://images.asos-media.com/products/nike-yoga-strap-in-black/202431063-1-black?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "Nike Yoga strap in black",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 5600,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 5,
+        "image": "https://images.asos-media.com/products/hugo-daratschi-box-logo-tie-dye-hoodie-in-blue/201898038-1-blue?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "Tommy Jeans x ASOS exclusive collab cropped logo t-shirt in white",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 18800,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 6,
+        "image": "https://images.asos-media.com/products/dickies-oakport-quarter-zip-sweatshirt-in-off-white/203462396-1-cream?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "Dickies Oakport quarter zip sweatshirt in off white",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 5600,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 7,
+        "image": "https://images.asos-media.com/products/asos-design-oversized-polo-t-shirt-in-all-over-print-with-london-back-print/202632853-1-blue?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "ASOS DESIGN oversized polo t-shirt in all over print with London back print",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 3800,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 8,
+        "image": "https://images.asos-media.com/products/asos-design-relaxed-revere-polo-t-shirt-in-green-marl-rib/203011912-1-green?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "Dickies Oakport quarter zip sweatshirt in off white",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 5600,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 9,
+        "image": "https://images.asos-media.com/products/ps-paul-smith-t-shirt-in-black-with-evolution-chest-graphics/203594572-1-black?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "PS Paul Smith t-shirt in black with evolution chest graphics",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 1000,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 10,
+        "image": "https://images.asos-media.com/products/the-hundreds-bright-ideas-t-shirt-in-black/203728143-1-black?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "The Hundreds bright ideas t-shirt in black",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 7200,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 11,
+        "image": "https://images.asos-media.com/products/marshall-artist-santiago-heavyweight-t-shirt-in-black/203317670-1-black?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "Marshall Artist santiago heavyweight t-shirt in black",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 5600,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 12,
+        "image": "https://images.asos-media.com/products/asos-design-lace-up-boot-in-brown-borg-with-strap-detail-on-chunky-sole/201130030-1-brown?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "ASOS DESIGN lace up boot in brown borg with strap detail on chunky sole",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 10300,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 13,
+        "image": "https://images.asos-media.com/products/faded-future-pack-of-2-rhinestone-and-iced-out-chain-bracelet-in-silver/203624799-1-silver?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "Faded Future pack of 2 rhinestone and iced out chain bracelet in silver",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 2600,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 14,
+        "image": "https://images.asos-media.com/products/carhartt-wip-lined-gilet-vest-in-brown/203398061-1-brown?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "Carhartt WIP lined gilet vest in brown",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 25000,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 15,
+        "image": "https://images.asos-media.com/products/quiksilver-mongrel-t-shirt-in-white/203324538-1-white?$n_320w$&wid=317&fit=constrain",
+        "name": "Tommy Jeans",
+        "title": "Quiksilver Mongrel t-shirt in white",
+        "color": "white",
+        "size": ["XXS", "XS", "S", "M", "L", "XL"],
+        "price": 5400,
+        "product_details": [
+          "Excluded from all discount codes",
+          "Your new go-to",
+          "Branded design",
+          "Crew neck",
+          "Short sleeves",
+          "Regular fit"],
+        "product_code": "119609747",
+        "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Machine wash according to instructions on care label",
+        "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+      },
+      {
+        "id": 16,
+        "image": "https://images.asos-media.com/products/adidas-originals-retropy-e5-trainers-in-green/202843472-1-green?$n_320w$&wid=317&fit=constrain",
+        "name": "adidas",
+        "title": "adidas Originals Retropy E5 trainers in green",
+        "color": "green",
+        "size": ["UK 9", "UK 10"],
+        "price": 15100,
+        "product_details": [
+          "Trainers by adidas Originals",
+          "Your casualwear companions",
+          "Low-profile design",
+          "Lace-up fastening",
+          "Padded cuff",
+          "Signature adidas branding",
+          "Boost midsole provides responsive, energy-returning cushioning",
+          "Durable rubber outsole",
+          "Textured grip tread"],
+        "product_code": "118782114",
+        "brand": "adidas Originals needs no introduction. The brand’s famous 3-Stripes can be seen on the track, field and in the latest streetwear trends. Scroll the adidas Originals at ASOS edit to get your fix, from fresh trainers from the iconic Superstar, Stan Smith, Gazelle and Continental 80 collections to archive-inspired adidas Originals tracksuits, T-shirts and sweatshirts. And if you’re in need of some fresh kit, then cop yourself some sweat-wicking shorts, vests and compression tights from adidas Performance.",
+        "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+        "look_after_me": "Wipe clean with a soft dry cloth",
+        "about_me": ["Suede and textile upper", "Lining: 100% Textile, Sole: 50% Rubber, 50% Textile, Upper: 50% Leather, 50% Other materials."]
+      }
+  
+    ],
+    "menpromovideo" : 
+      {
+        "id": 1,
+        "video": "https://video.asos-media.com/Navigation/_content_topman_desktop_mp4_564_720_2400k_25fps"
+      },
+      "mensmallcards" : [
+        {
+          "id": 1,
+          "image": "https://content.asos-media.com/-/media/homepages/mw/2022/sept/26/moments/mw_warm_handle_moment_870x1110-v3.png",
+          "title": "ASOS DESIGN COSY",
+          "text": "For fluff's sake"
+        },
+        {
+          "id": 2,
+          "image": "https://content.asos-media.com/-/media/homepages/mw/2022/sept/26/moments/mw_global_winter_essentials_moment_870x1110.jpg",
+          "title": "WINTER NEUTRALS",
+          "text": "Beige ain't boring"
+        },
+        {
+          "id": 3,
+          "image": "https://content.asos-media.com/-/media/homepages/mw/2022/sept/26/moments/mw_weekday_moment_870x1110.jpg",
+          "title": "WEEKDAY",
+          "text": "Cold-weather wins"
+        },
+        {
+          "id": 4,
+          "image": "https://content.asos-media.com/-/media/homepages/mw/2022/sept/26/moments/mw_retro_day_and_night_moment_870x1110-2.jpg",
+          "title": "DISCO NOSTALGIA",
+          "text": "It's a trip"
+        }
+      ],
+      "mentrendingbrands" : [
+        {
+          "id": 1,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/tommy-hilfiger-hp-logos-256x256.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/north-face.png"
+        },
+        {
+          "id": 3,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/nike-hp-logos-256x256.jpg"
+        },
+        {
+          "id": 4,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/carhartt-hp-logos-256x256.jpg"
+        },
+        {
+          "id": 5,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/ellesse-hp-logos-256x256.jpg"
+        },
+        {
+          "id": 6,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/dr-martens-hp-logos-256x256.jpg"
+        }
+      ],
+      "menmediumcards" : [
+        {
+          "id": 1,
+          "image": "https://content.asos-media.com/-/media/homepages/mw/2022/sept/26/moments/mw_warm_handle_moment_870x1110-v3.png",
+          "title": "ASOS DESIGN COSY",
+          "text": "For fluff's sake"
+        },
+        {
+          "id": 2,
+          "image": "https://content.asos-media.com/-/media/homepages/mw/2022/sept/26/moments/mw_global_winter_essentials_moment_870x1110.jpg",
+          "title": "WINTER NEUTRALS",
+          "text": "Beige ain't boring"
+        }
+      ]
+  }
